@@ -1,1 +1,2 @@
-This is my first git message..
+This is my first git message.
+this is my second git message..
